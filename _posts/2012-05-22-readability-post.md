@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Testing Readability with a Bunch of Text"
-description: "A ton of text to test readability."
-date: 2012-05-22
-tags: [sample post, readability, test, intro]
+title: "Anteproyecto"
+description: "Anteproyecto de la aplicación web para la universidad nacional."
+date: 2017-05-15
+tags: [Unal, Septima papeleta, intro]
 comments: true
 share: true
 ---
@@ -21,12 +21,12 @@ No existe canal de la comunidad hacia las representaciones, actualmente las repr
 Dependencia Universidad
 Los trámites que tiene que realizar un estudiante para presentar una sugerencia (propuesta) ante los diferentes organismos de la universidad, son trámites muy engorrosos, son procesos burocráticos. Desaniman al estudiantado puesto que la administración pone muchos obstáculos en la presentación de proyectos. Al igual que los representantes no cuentan con un medio para recepcionar proyectos, además las sugerencias hechas por el sistema PQR (Preguntas, Quejas y Reclamos) no llegan a los altos mandos.
 Esta problemática no es actual lleva bastante tiempo en la universidad, actualmente no se presentan proyectos ante los consejos por parte de estudiantes y muy eventualmente por parte de representantes, en general los estudiantes se alejan de los procesos de participación que ofrece la universidad, ya que sienten que su opinión no cuenta para construir una mejor universidad.
-2.	Hipótesis 
+## 2.	Hipótesis 
 El desarrollo de la universidad está a cargo de los administrativos, pero están lejos de comprender los problemas reales que sufren la comunidad, por tal razón es la comunidad la que debe proponer las soluciones a los problemas que enfrentan, como se expuso anteriormente la comunidad no participa porque no es escuchada. Lo que produce un desarrollo equivocado que es pensado por personas que desconocen las necesidades reales de la universidad.
 
-3.	Objetivo general
+## 3.	Objetivo general
 *	Utilizar las tecnologías de información, para crear un mecanismo de participación directo y activo de la comunidad universitaria y así mejorar el entorno universitario, con ello crear identidad.
-4.	Objetivos específicos 
+## 4.	Objetivos específicos 
 *	Proporcionar un canal de comunicación, para que sea un medio de participación directa de la comunidad universitaria en la construcción de propuestas para el mejoramiento de la misma
 *	Crear proyectos interdisciplinarios generados por la comunidad para solucionar problemas que estos perciban
 *	Librar a la comunidad de los procesos burocráticos, utilizando nuevas tecnologías y estableciendo un canal directo ante los tomadores de decisión.
@@ -190,10 +190,8 @@ Este derecho es un mecanismo de participación directa, donde la comunidad tiene
 La Universidad Nacional de Colombia en su campus de la sede Bogotá, alberga estudiantes de diferentes facultades de los cuales, 24667 son estudiantes de pregrado y 6235 son estudiantes de pregrado, esto conlleva a generar un espacio óptimo para implementación de modelo de Crowdsourcing.
 Crowdsourcing:
 "Modelo estratégico para atraer una multitud interesada y motivada de individuos, capaces de proporcionar soluciones superiores en calidad y cantidad a aquellas que podrían proporcionar formas tradicionales" (Daren Brabham) 
-## 8.	Propuesta técnica del proyecto
 
-Especificación de requerimientos
-## 9.	Impacto social o tecnológico
+## 8.	Impacto social o tecnológico
 El desarrollo de la Séptima Papeleta será la solución de muchos de los problemas de la comunidad universitaria, se han identificado pilares en el impacto social que conlleva el desarrollo de la plataforma, los cuales son:
 Cambio de paradigma:
 Las representaciones estudiantiles, desde su creación han seguido los mismos lineamientos y han desarrollado los mismos mecanismos para involucrar a los estudiantes en el proceso de toma de decisiones, el desarrollo de la séptima papeleta cambia el sentido que tienen los grupos de representación estudiantil, a pasar de una representación que solamente tomaba posturas frente a propuestas hechas por otros miembros del consejo, a ser más proactivos en cuanto a la realización de propuestas, que van a ser hechas por la comunidad universitaria.
