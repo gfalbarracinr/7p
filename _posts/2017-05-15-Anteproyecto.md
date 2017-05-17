@@ -1,54 +1,12 @@
 ---
 layout: post
-title: "Anteproyecto"
-description: "Anteproyecto de la aplicación web para la universidad nacional."
-date: 2017-05-15
-tags: [Unal, Septima papeleta, intro]
+title: "Marco Teórico"
+description: "Marco Teórico - anteproyecto Séptima Papeleta Universidad Nacional"
+date: 2017-05-17
+tags: [Unal, Septima papeleta, Marco teórico]
 comments: true
 share: true
 ---
-
-## INFORMACIÓN GENERAL
-1.	Planteamiento del problema
-La participación en la Universidad Nacional de Colombia es un problema visible dentro de la comunidad universitaria, tanto profesores, estudiantes como administrativos no creen en sus representantes ante los diferentes consejos que proporciona la universidad, para la última elección a representante estudiantil pocos estudiantes participaron, muchos argumentan que no votan porque las representaciones estudiantiles se desvían de su propósito y no generan un cambio significativo en la universidad. Cuando un estudiante quiere proponer cambios dentro de su entorno, tiene dos opciones: comunicarse con los representantes estudiantiles o dirigirse hacia la dependencia encargada a realizar directamente el trámite.
-Representación estudiantil.
-Los canales de comunicación para interactuar con la comunidad universitaria, que poseen los representantes son:
-a.	Facebook: Cuentan con una página en Facebook, la cual utilizan para presentar información acerca de eventos y comunicados
-b.	Correo institucional: Al igual que en Facebook, se presenta para divulgar la misma información.
-A pesar de que cuentan con los canales mencionados anteriormente, solo permiten informar a los estudiantes, más no a los representantes, entonces ¿Qué pasa con la comunicación que quieren ser transmitidas desde los estudiantes hacia las representaciones?
-No existe canal de la comunidad hacia las representaciones, actualmente las representaciones no toman en cuenta las propuestas generadas dentro de la comunidad.
-
-Dependencia Universidad
-Los trámites que tiene que realizar un estudiante para presentar una sugerencia (propuesta) ante los diferentes organismos de la universidad, son trámites muy engorrosos, son procesos burocráticos. Desaniman al estudiantado puesto que la administración pone muchos obstáculos en la presentación de proyectos. Al igual que los representantes no cuentan con un medio para recepcionar proyectos, además las sugerencias hechas por el sistema PQR (Preguntas, Quejas y Reclamos) no llegan a los altos mandos.
-Esta problemática no es actual lleva bastante tiempo en la universidad, actualmente no se presentan proyectos ante los consejos por parte de estudiantes y muy eventualmente por parte de representantes, en general los estudiantes se alejan de los procesos de participación que ofrece la universidad, ya que sienten que su opinión no cuenta para construir una mejor universidad.
-## 2.	Hipótesis 
-El desarrollo de la universidad está a cargo de los administrativos, pero están lejos de comprender los problemas reales que sufren la comunidad, por tal razón es la comunidad la que debe proponer las soluciones a los problemas que enfrentan, como se expuso anteriormente la comunidad no participa porque no es escuchada. Lo que produce un desarrollo equivocado que es pensado por personas que desconocen las necesidades reales de la universidad.
-
-## 3.	Objetivo general
-*	Utilizar las tecnologías de información, para crear un mecanismo de participación directo y activo de la comunidad universitaria y así mejorar el entorno universitario, con ello crear identidad.
-## 4.	Objetivos específicos 
-*	Proporcionar un canal de comunicación, para que sea un medio de participación directa de la comunidad universitaria en la construcción de propuestas para el mejoramiento de la misma
-*	Crear proyectos interdisciplinarios generados por la comunidad para solucionar problemas que estos perciban
-*	Librar a la comunidad de los procesos burocráticos, utilizando nuevas tecnologías y estableciendo un canal directo ante los tomadores de decisión.
-*	Proporcionar más herramientas a los representantes, donde puedan hacer más propuestas y se establezca posturas proactivas.
-
-
-
-## 5.	Justificación
-La solución planteada es la creación de una aplicación web, donde la comunidad pueda participar interactivamente e interdisciplinariamente para la creación de propuestas y de proyectos para la solución de problemas dentro de la universidad. Al utilizar medios tecnológicos se asegura la eficiencia en la organización de grupos interdisciplinarios, y la comunicación directa entre comunidad universitaria y administrativos, además con el uso de las TIC se informa a la comunidad más fácilmente sobre proyectos en curso, propuestas y/o problemas identificados.
-## 6.	Estado del arte
-En la investigación realizada se clasificaron en dos tipos las aplicaciones que se han desarrollado para incentivar la participación y el trabajo interdisciplinario, estas son: a nivel universitario y a nivel mundial.
-Nivel universitario
-UN innova: Plataforma tecnológica donde permite a los estudiantes proponer soluciones a problemas descritos por empresas, industria, que contratan el servicio. Incentiva la participación mediante premios entregados a las mejores soluciones y con la posibilidad de que el ganador forme parte del equipo de trabajo de UN innova.
-Ctzen: App que le permite al gobierno responder a las inquietudes, preocupaciones, y quejas de los ciudadanos, mejorando la seguridad y el desarrollo de las ciudades. Actualmente la aplicación está disponible en Bogotá, Medellín, Turbo y en la Universidad Nacional sede Medellín.
-Nivel regional
-La preocupación por desarrollar nuevas formas de participación ciudadana ha estado presente en muchos países, A continuación, se presenta una lista de desarrollos.
-Change.org: Plataforma en línea donde los usuarios pueden apoyar peticiones, mediante firmas electrónicas, tiene un carácter simbólico en todos los países a diferencia de España, ya que este país aprobó el voto electrónico.
-Démocratie Ouverte:  Organización perteneciente al gobierno Frances, en donde apoya a diferentes emprendimientos tecnológicos centrados en participación ciudadana, en total hay 23 diferentes aplicaciones para mejorar la participación ciudadana en el pueblo francés, todas están centradas en la identificación de problemas y soluciones que presenta la comunidad.
-Fluicity: Red ciudadana a nivel local que reúne en una sola plataforma los ciudadanos y sus representantes elegidos, la comunidad puede decir sus preguntas, problemas o ideas al servicio en cuestión, conversar directamente con sus funcionarios elegidos y responder a encuestas de la participación de su ciudad. Cada ciudadano puede idear un proyecto de interés general y votar los demás proyectos. Las ideas más aclamadas serán tomadas por la ciudad.
-D-Cent Project: ONG de la Unión Europea, donde apoya a los ciudadanos de distintas regiones para la construcción de propuestas y de iniciativas ciudadanas por medios tecnológicos. Actualmente se encuentran en España (Madrid y Barcelona), Islandia (a nivel nacional y en Reikiavik), obteniendo muy buenos resultados, y siendo Decide Madrid su plataforma líder.
-Bogotá abierta: Plataforma donde los ciudadanos proponen soluciones a problemas identificados por la alcaldía.
-Como se observa, en cada una de las aplicaciones se centran principalmente en la solución de problemas por parte de los ciudadanos, pero no las aterrizan en proyectos concretos para presentar en los senados, consejos y/o congresos.
 ## 7.	Marco teórico
 
 Funcionamiento Interno de la Universidad
@@ -190,23 +148,6 @@ Este derecho es un mecanismo de participación directa, donde la comunidad tiene
 La Universidad Nacional de Colombia en su campus de la sede Bogotá, alberga estudiantes de diferentes facultades de los cuales, 24667 son estudiantes de pregrado y 6235 son estudiantes de pregrado, esto conlleva a generar un espacio óptimo para implementación de modelo de Crowdsourcing.
 Crowdsourcing:
 "Modelo estratégico para atraer una multitud interesada y motivada de individuos, capaces de proporcionar soluciones superiores en calidad y cantidad a aquellas que podrían proporcionar formas tradicionales" (Daren Brabham) 
-
-## 8.	Impacto social o tecnológico
-El desarrollo de la Séptima Papeleta será la solución de muchos de los problemas de la comunidad universitaria, se han identificado pilares en el impacto social que conlleva el desarrollo de la plataforma, los cuales son:
-Cambio de paradigma:
-Las representaciones estudiantiles, desde su creación han seguido los mismos lineamientos y han desarrollado los mismos mecanismos para involucrar a los estudiantes en el proceso de toma de decisiones, el desarrollo de la séptima papeleta cambia el sentido que tienen los grupos de representación estudiantil, a pasar de una representación que solamente tomaba posturas frente a propuestas hechas por otros miembros del consejo, a ser más proactivos en cuanto a la realización de propuestas, que van a ser hechas por la comunidad universitaria.
-El desarrollo de la aplicación cambia la estructura de las sesiones de los consejos universitarios, en los consejos aprobar una proposición es un acto subjetivo que depende de la capacidad argumentativa (retorica) del expositor, más no del proyecto en sí. Al implementar la séptima papeleta, el único factor que va a influenciar la aprobación de un proyecto es la documentación del mismo, ahora con la séptima papeleta, se obliga a presentar proyectos mediante la concepción del mismo en un documento formal.
-La comunidad va a ser la que determina cambios que se realizan en la universidad, ya que la aplicación permitirá que sean escuchadas sus propuestas, y, como se ha venido explicando, es esta la que sufre los problemas y la que tiene las mejores soluciones.
-La Séptima Papeleta como referente:
-La Séptima Papeleta, fue un movimiento estudiantil que promulgo la reforma constitucional, fue un referente en cuanto a participación estudiantil se refiere, ya que, marcó un hito en la historia del país, puesto que demostró a la población que los jóvenes pueden y deben construir un mejor país.
-Para la aplicación es un referente, porque queremos rescatar lo que significó la séptima papeleta para los universitarios, jóvenes y para la nación. Pues nuestra aplicación se centra en los jóvenes universitarios, que quieren recuperar el protagonismo y contarle al país que también pueden proponer para mejorar sus condiciones y la de la sociedad colombiana.
-Soluciones Colaborativas:
-Uno de los pilares fundamentales de la aplicación, es el desarrollo de proyectos concretos para solucionar problemas dentro de la universidad, estamos conscientes que un proyecto no lo realiza una persona, por eso facilitamos la conformación de grupos interdisciplinarios para la solución de problemas que identifican la comunidad. Esto genera un ambiente de trabajo de equipo que ayuda a formar redes de profesionales de distintas disciplinas.
-Visión de la Séptima Papeleta:
-Cómo visión a largo plazo es la implementación de una aplicación a nivel nacional, puesto que el desarrollo de proyectos interdisciplinarios para mejorar y hacer un mecanismo de participación más directo, es deber y asunto del estado, por ende, nos vemos en el compromiso de realizar nuevas formas de participación, y que mejor que una aplicación probada en la Universidad Nacional de Colombia.
-10.	Cronograma de actividades
-Especificación de requerimientos
-
 
 
 ## REFERENCIAS
