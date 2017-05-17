@@ -25,7 +25,8 @@ Esta problemática no es actual lleva bastante tiempo en la universidad, actualm
 El desarrollo de la universidad está a cargo de los administrativos, pero están lejos de comprender los problemas reales que sufren la comunidad, por tal razón es la comunidad la que debe proponer las soluciones a los problemas que enfrentan, como se expuso anteriormente la comunidad no participa porque no es escuchada. Lo que produce un desarrollo equivocado que es pensado por personas que desconocen las necesidades reales de la universidad.
 
 ### 3.	Objetivo general
-*	Utilizar las tecnologías de información, para crear un mecanismo de participación directo y activo de la comunidad universitaria y así mejorar el entorno universitario, con ello crear identidad.*
+*	Utilizar las tecnologías de información, para crear un mecanismo de participación directo y activo de la comunidad universitaria y así mejorar el entorno universitario, con ello crear identidad.
+
 ### 4.	Objetivos específicos 
 *	Proporcionar un canal de comunicación, para que sea un medio de participación directa de la comunidad universitaria en la construcción de propuestas para el mejoramiento de la misma
 *	Crear proyectos interdisciplinarios generados por la comunidad para solucionar problemas que estos perciban
