@@ -1,113 +1,33 @@
 ---
 layout: post
-title: "A Full and Comprehensive Style Test"
-description: "Test post for style"
-date: 2016-08-15
-tags: [test, style]
+title: "Información General"
+description: "información general del proyecto (problema, objetivos, hipótesis)"
+date: 2017-05-17
+tags: [problema , objetivos, hipótesis]
 comments: true
 share: true
 ---
-
-Below is just about everything you'll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.
-
 ---
+# INFORMACIÓN GENERAL
+### 1.	Planteamiento del problema
+La participación en la Universidad Nacional de Colombia es un problema visible dentro de la comunidad universitaria, tanto profesores, estudiantes como administrativos no creen en sus representantes ante los diferentes consejos que proporciona la universidad, para la última elección a representante estudiantil pocos estudiantes participaron, muchos argumentan que no votan porque las representaciones estudiantiles se desvían de su propósito y no generan un cambio significativo en la universidad. Cuando un estudiante quiere proponer cambios dentro de su entorno, tiene dos opciones: comunicarse con los representantes estudiantiles o dirigirse hacia la dependencia encargada a realizar directamente el trámite.
+Representación estudiantil.
+Los canales de comunicación para interactuar con la comunidad universitaria, que poseen los representantes son:
+a.	Facebook: Cuentan con una página en Facebook, la cual utilizan para presentar información acerca de eventos y comunicados
+b.	Correo institucional: Al igual que en Facebook, se presenta para divulgar la misma información.
+A pesar de que cuentan con los canales mencionados anteriormente, solo permiten informar a los estudiantes, más no a los representantes, entonces ¿Qué pasa con la comunicación que quieren ser transmitidas desde los estudiantes hacia las representaciones?
+No existe canal de la comunidad hacia las representaciones, actualmente las representaciones no toman en cuenta las propuestas generadas dentro de la comunidad.
 
-## 1. Header 
+Dependencia Universidad
+Los trámites que tiene que realizar un estudiante para presentar una sugerencia (propuesta) ante los diferentes organismos de la universidad, son trámites muy engorrosos, son procesos burocráticos. Desaniman al estudiantado puesto que la administración pone muchos obstáculos en la presentación de proyectos. Al igual que los representantes no cuentan con un medio para recepcionar proyectos, además las sugerencias hechas por el sistema PQR (Preguntas, Quejas y Reclamos) no llegan a los altos mandos.
+Esta problemática no es actual lleva bastante tiempo en la universidad, actualmente no se presentan proyectos ante los consejos por parte de estudiantes y muy eventualmente por parte de representantes, en general los estudiantes se alejan de los procesos de participación que ofrece la universidad, ya que sienten que su opinión no cuenta para construir una mejor universidad.
+### 2.	Hipótesis 
+El desarrollo de la universidad está a cargo de los administrativos, pero están lejos de comprender los problemas reales que sufren la comunidad, por tal razón es la comunidad la que debe proponer las soluciones a los problemas que enfrentan, como se expuso anteriormente la comunidad no participa porque no es escuchada. Lo que produce un desarrollo equivocado que es pensado por personas que desconocen las necesidades reales de la universidad.
 
-# Header 1
-
-## Header 2
-
-### Header 3
-
-#### Header 4
-
-##### Header 5
-
-###### Header 6
-
-### 1-1. Header Alignment 
-
-##### Left(Default)
-
-##### Center
-{: .center}
-
-##### Right
-{: .right}
-
-## 2. Body Text
-
-Lorem ipsum dolor sit amet, [test link](#) adipiscing elit. **This is strong.** Nullam dignissim convallis est. Quisque aliquam. *This is emphasized.* Donec faucibus. Nunc iaculis suscipit dui. 5<sup>3</sup> = 125. Water is H<sub>2</sub>O. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. <u>Underline</u>. Maecenas ornare tortor. Donec sed tellus eget `COPY filename` sapien fringilla nonummy. Mauris a ante. Suspendisse quam sem, consequat at, <del>Dinner’s at 5:00.</del> commodo vitae, feugiat in, nunc. Morbi imperdiet augue <mark>mark element</mark> quis tellus.
-
-## 3. Images
-
-![Large example image](http://placehold.it/800x400 "Large example image")
-![Medium example image](http://placehold.it/400x200 "Medium example image")
-![Small example image](http://placehold.it/200x200 "Small example image")
-
-### 3-1. Image Alignment
-![Center example image](http://placehold.it/200x200 "Center"){: .center-image}
-
-## 4. Blockquotes
-
-> Lorem ipsum dolor sit amet, test link adipiscing elit. Nullam dignissim convallis est. Quisque aliquam.
-
-## 5. List Types
-
-### Unordered List
-
-* Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-* Nam ultrices nunc in nisi pellentesque ultricies. Cras scelerisque ipsum in ante laoreet viverra. Pellentesque eget quam et augue molestie tincidunt ac ut ex. Sed quis velit vulputate, rutrum nisl sit amet, molestie neque. Vivamus sed augue at turpis suscipit fringilla.
-* Integer pretium nisl vitae justo aliquam, at varius nisi blandit.
-  1. Nunc vehicula nulla ac odio gravida vestibulum sed nec mauris.
-  2. Duis at diam eget arcu dapibus consequat.
-* Etiam vel elit in purus iaculis pretium.
-
-### Ordered List
-
-1. Quisque ullamcorper leo non ex pretium, in fermentum libero imperdiet.
-2. Donec eu nulla euismod, rhoncus ipsum nec, faucibus elit.
-3. Nam blandit purus gravida, accumsan sem in, lacinia orci.
-  * Duis congue dui nec nisi posuere, at luctus velit semper.
-  * Suspendisse in lorem id lacus elementum pretium nec vel nibh.
-4. Aliquam eget ipsum laoreet, maximus risus vitae, iaculis leo.
-
-### Definition Lists
-
-kramdown
-: A Markdown-superset converter
-
-Maruku
-: Another Markdown-superset converter
-
-## 6. Tables
-
-| Header1 | Header2 | Header3 |
-|:--------|:-------:|--------:|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|----
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|=====
-| Foot1   | Foot2   | Foot3
-
-
-## 7. Code Snippets
-
-### Highlighted Code Blocks
-
-```css
-#container {
-  float: left;
-  margin: 0 -240px 0 0;
-  width: 100%;
-}
-```
-
-### Standard code block
-
-    <div id="awesome">
-      <p>This is great isn't it?</p>
-    </div>
+#### 3.	Objetivo general
+*	Utilizar las tecnologías de información, para crear un mecanismo de participación directo y activo de la comunidad universitaria y así mejorar el entorno universitario, con ello crear identidad.
+### 4.	Objetivos específicos 
+*	Proporcionar un canal de comunicación, para que sea un medio de participación directa de la comunidad universitaria en la construcción de propuestas para el mejoramiento de la misma
+*	Crear proyectos interdisciplinarios generados por la comunidad para solucionar problemas que estos perciban
+*	Librar a la comunidad de los procesos burocráticos, utilizando nuevas tecnologías y estableciendo un canal directo ante los tomadores de decisión.
+*	Proporcionar más herramientas a los representantes, donde puedan hacer más propuestas y se establezca posturas proactivas.
