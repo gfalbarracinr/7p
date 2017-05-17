@@ -43,14 +43,10 @@ kramdown:
 
 # Navigation
 nav:
-  - name:           "About"
+  - name:           "Acerca"
     url:            "/about"
-  - name:           "Archive"
-    url:            "/archive"
-  - name:           "Tags"
+  - name:           "Etiquetas"
     url:            "/tags"
-  - name:           "Github"
-    url:            "https://github.com/AWEEKJ/Kiko-plus"
 
 # Sass
 sass:
