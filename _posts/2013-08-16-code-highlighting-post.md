@@ -13,12 +13,12 @@ La solución planteada es la creación de una aplicación web, donde la comunida
 ### 6.	Estado del arte
 En la investigación realizada se clasificaron en dos tipos las aplicaciones que se han desarrollado para incentivar la participación y el trabajo interdisciplinario, estas son: a nivel universitario y a nivel mundial.
 
-## A) Nivel universitario
+#### A) Nivel universitario
 * UN innova: Plataforma tecnológica donde permite a los estudiantes proponer soluciones a problemas descritos por empresas, industria, que contratan el servicio. Incentiva la participación mediante premios entregados a las mejores soluciones y con la posibilidad de que el ganador forme parte del equipo de trabajo de UN innova.
 * Ctzen: App que le permite al gobierno responder a las inquietudes, preocupaciones, y quejas de los ciudadanos, mejorando la seguridad y el desarrollo de las ciudades. Actualmente la aplicación está disponible en Bogotá, Medellín, Turbo y en la Universidad Nacional sede Medellín.
 
 
-## B) Nivel regional
+#### B) Nivel regional
 La preocupación por desarrollar nuevas formas de participación ciudadana ha estado presente en muchos países, A continuación, se presenta una lista de desarrollos.
 * Change.org: Plataforma en línea donde los usuarios pueden apoyar peticiones, mediante firmas electrónicas, tiene un carácter simbólico en todos los países a diferencia de España, ya que este país aprobó el voto electrónico.
 * Démocratie Ouverte:  Organización perteneciente al gobierno Frances, en donde apoya a diferentes emprendimientos tecnológicos centrados en participación ciudadana, en total hay 23 diferentes aplicaciones para mejorar la participación ciudadana en el pueblo francés, todas están centradas en la identificación de problemas y soluciones que presenta la comunidad.
