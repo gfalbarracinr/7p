@@ -1,4 +1,5 @@
 ---
+layout: pageWithVideo
 title: Acerca
 permalink: /about/
 ---
