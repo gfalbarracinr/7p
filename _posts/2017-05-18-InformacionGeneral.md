@@ -2,7 +2,7 @@
 layout: post
 title: "Información General"
 description: "información general del proyecto (problema, objetivos, hipótesis)"
-date: 2017-05-17
+date: 2017-05-18
 tags: [problema , objetivos, hipótesis]
 comments: true
 share: true
