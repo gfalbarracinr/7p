@@ -20,7 +20,7 @@ En la investigación realizada se clasificaron en dos tipos las aplicaciones que
 
 
 #### B) Nivel regional
-La preocupación por desarrollar nuevas formas de participación ciudadana ha estado presente en muchos países, A continuación, se presenta una lista de desarrollos.
+La preocupación por desarrollar nuevas formas de participación ciudadana ha estado presente en muchos países. A continuación, se presenta una lista de desarrollos.
 * **Change.org**: Plataforma en línea donde los usuarios pueden apoyar peticiones, mediante firmas electrónicas, tiene un carácter simbólico en todos los países a diferencia de España, ya que este país aprobó el voto electrónico.
 * **Démocratie Ouverte**:  Organización perteneciente al gobierno Frances, en donde apoya a diferentes emprendimientos tecnológicos centrados en participación ciudadana, en total hay 23 diferentes aplicaciones para mejorar la participación ciudadana en el pueblo francés, todas están centradas en la identificación de problemas y soluciones que presenta la comunidad.
 * **Fluicity**: Red ciudadana a nivel local que reúne en una sola plataforma los ciudadanos y sus representantes elegidos, la comunidad puede decir sus preguntas, problemas o ideas al servicio en cuestión, conversar directamente con sus funcionarios elegidos y responder a encuestas de la participación de su ciudad. Cada ciudadano puede idear un proyecto de interés general y votar los demás proyectos. Las ideas más aclamadas serán tomadas por la ciudad.
