@@ -2,7 +2,7 @@
 layout: post
 title: "Estado del arte"
 description: "Justificación y estado del arte"
-date: 2017-05-17
+date: 2017-05-16
 tags: [Estado del arte, justificación]
 comments: true
 share: true
