@@ -10,6 +10,7 @@ share: true
 
 ### 5.	Justificación
 La solución planteada es la creación de una aplicación web, donde la comunidad pueda participar interactivamente e interdisciplinariamente para la creación de propuestas y de proyectos para la solución de problemas dentro de la universidad. Al utilizar medios tecnológicos se asegura la eficiencia en la organización de grupos interdisciplinarios, y la comunicación directa entre comunidad universitaria y administrativos, además con el uso de las TIC se informa a la comunidad más fácilmente sobre proyectos en curso, propuestas y/o problemas identificados.
+
 ### 6.	Estado del arte
 En la investigación realizada se clasificaron en dos tipos las aplicaciones que se han desarrollado para incentivar la participación y el trabajo interdisciplinario, estas son: a nivel universitario y a nivel mundial.
 
