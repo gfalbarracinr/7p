@@ -84,8 +84,8 @@ El preconsejo está conformado por:
 
 4. Un(a) Representante de las y los estudiantes ante el Consejo de Sede, designado(a) por los(as) representantes estudiantiles ante el Consejo.
 
-5. El(la) Secretario(a) de Sede, quien estará a cargo de la convocatoria a las reuniones
-Y podrá sesionar con al menos 3 integrantes, pero debe haber al menos un decano
+5. El(la) Secretario(a) de Sede, quien estará a cargo de la convocatoria a las reuniones.
+Y podrá sesionar con al menos 3 integrantes, pero debe haber al menos un decano.
 
 El Consejo de Facultad es el máximo órgano de gobierno de la Facultad y está integrado por: 
 1. El Decano, quien lo presidirá. 
