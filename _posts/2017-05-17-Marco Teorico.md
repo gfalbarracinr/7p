@@ -147,6 +147,7 @@ Este derecho es un mecanismo de participación directa, donde la comunidad tiene
 
 La Universidad Nacional de Colombia en su campus de la sede Bogotá, alberga estudiantes de diferentes facultades de los cuales, 24667 son estudiantes de pregrado y 6235 son estudiantes de pregrado, esto conlleva a generar un espacio óptimo para implementación de modelo de Crowdsourcing.
 
+
 Crowdsourcing:
 "Modelo estratégico para atraer una multitud interesada y motivada de individuos, capaces de proporcionar soluciones superiores en calidad y cantidad a aquellas que podrían proporcionar formas tradicionales" (Daren Brabham) 
 
