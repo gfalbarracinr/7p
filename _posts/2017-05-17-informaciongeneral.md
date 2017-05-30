@@ -15,6 +15,8 @@ Representación estudiantil.
 Los canales de comunicación para interactuar con la comunidad universitaria, que poseen los representantes son:
 
 a.	Facebook: Cuentan con una página en Facebook, la cual utilizan para presentar información acerca de eventos y comunicados.
+
+
 b.	Correo institucional: Al igual que en Facebook, se presenta para divulgar la misma información.
 
 A pesar de que cuentan con los canales mencionados anteriormente, solo permiten informar a los estudiantes, más no a los representantes, entonces ¿Qué pasa con la comunicación que quieren ser transmitidas desde los estudiantes hacia las representaciones?
