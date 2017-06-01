@@ -47,6 +47,8 @@ nav:
     url:            "/about"
   - name:           "Etiquetas"
     url:            "/tags"
+  - name:           "Presentacion"
+    url:            "/index"
 
 # Sass
 sass:
