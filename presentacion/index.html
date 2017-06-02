@@ -3,17 +3,16 @@ layout: page
 title: Presentaciones
 ---
 <div class="list">
-{% if site.tag.presentacion == 0 %}
+{% if site.post.posts == 0 %}
   <h2>No hay presentaciones a mostrar</h2>
 {% else %}
-  <h2>Problem</h2>
 <!-- This loops through the paginated posts -->
-{% for post in site.tag.presentacion %}
+{% for post in site.posts %}
   <div class="list-post">
     {% if post.link %}
     <a href="{{ post.link }}">
     {% else %}
-    <a href="{{ post.url | prepend: site.baseurl }}">
+        <!-- Do nothing -->
     {% endif %}  
       <div class="list-post-date">
         <time>{{ post.date | date_to_string }}</time>
