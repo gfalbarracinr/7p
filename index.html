@@ -24,26 +24,25 @@ layout: default
 {% else %}
 <!-- This loops through the paginated posts -->
 {% for post in paginator.posts %}
-  <div class="list-post">
+  
     {% if post.link %}
     <!-- Do nothing -->
     {% else %}
-    <a href="{{ post.url | prepend: site.baseurl }}">
+      <div class="list-post">
+      <a href="{{ post.url | prepend: site.baseurl }}">
+        <div class="list-post-date">
+          <time>{{ post.date | date_to_string }}</time>
+        </div>
+        <div class="list-post-title">
+          {{ post.title }}
+        </div>
+        {% if post.description %}
+        <div class="list-post-desc">
+          {{ post.description }}
+        </div>
+        {% endif %}
+      </a>
     {% endif %}  
-      <div class="list-post-date">
-        <time>{{ post.date | date_to_string }}</time>
-      </div>
-      <div class="list-post-title">
-        {{ post.title }}
-      </div>
-      {% if post.description %}
-      <div class="list-post-desc">
-        {{ post.description }}
-      </div>
-      {% endif %}
-    </a>
-
-
   </div>
 {% endfor %}
   <!-- Pagination links -->
