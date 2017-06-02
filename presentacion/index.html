@@ -11,9 +11,6 @@ title: Presentaciones
   <div class="list-post">
     {% if post.link %}
     <a href="{{ post.link }}">
-    {% else %}
-        <!-- Do nothing -->
-    {% endif %}  
       <div class="list-post-date">
         <time>{{ post.date | date_to_string }}</time>
       </div>
@@ -26,6 +23,10 @@ title: Presentaciones
       </div>
       {% endif %}
     </a>
+    {% else %}
+        <!-- Do nothing -->
+    {% endif %}  
+      
   </div>
 {% endfor %}
   <!-- Pagination links -->
