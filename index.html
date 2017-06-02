@@ -26,7 +26,7 @@ layout: default
 {% for post in paginator.posts %}
   <div class="list-post">
     {% if post.link %}
-    <a href="{{ post.link }}">
+    <!-- Do nothing -->
     {% else %}
     <a href="{{ post.url | prepend: site.baseurl }}">
     {% endif %}  
