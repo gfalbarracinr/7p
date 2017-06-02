@@ -8,26 +8,25 @@ title: Presentaciones
 {% else %}
 <!-- This loops through the paginated posts -->
 {% for post in site.posts %}
-  <div class="list-post">
-    {% if post.link %}
-    <a href="{{ post.link }}">
-      <div class="list-post-date">
-        <time>{{ post.date | date_to_string }}</time>
-      </div>
-      <div class="list-post-title">
-        {{ post.title }}
-      </div>
-      {% if post.description %}
-      <div class="list-post-desc">
-        {{ post.description }}
-      </div>
-      {% endif %}
-    </a>
+  {% if post.link %}
+    <div class="list-post">
+      <a href="{{ post.link }}">
+        <div class="list-post-date">
+          <time>{{ post.date | date_to_string }}</time>
+        </div>
+        <div class="list-post-title">
+          {{ post.title }}
+        </div>
+        {% if post.description %}
+        <div class="list-post-desc">
+          {{ post.description }}
+        </div>
+        {% endif %}
+      </a>
+    </div>
     {% else %}
         <!-- Do nothing -->
     {% endif %}  
-      
-  </div>
 {% endfor %}
   <!-- Pagination links -->
   <div class="list-pagination">
