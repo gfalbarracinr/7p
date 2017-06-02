@@ -9,7 +9,6 @@ SOURCE = "."
 CONFIG = {
   'posts' => File.join(SOURCE, "_posts"),
   'drafts' => File.join(SOURCE, "_drafts"),
-  'presentation' => File.join(SOURCE,"_presentation"),
   'post_ext' => "md",
 }
 
