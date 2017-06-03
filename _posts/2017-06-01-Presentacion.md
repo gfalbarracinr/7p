@@ -5,5 +5,5 @@ description: "Ejemplo de presentacion"
 tags:
   - presentacion
 comments: false
-link: 'https://gfalbarracinr.github.io/project-pages/2016/05/02/New-Presentation/'
+link: 'https://gfalbarracinr.github.io/project-pages/2017/06/02/New-Presentation/'
 ---
