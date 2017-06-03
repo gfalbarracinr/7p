@@ -29,21 +29,21 @@ layout: default
     <!-- Do nothing -->
     {% else %}
       <div class="list-post">
-      <a href="{{ post.url | prepend: site.baseurl }}">
-        <div class="list-post-date">
-          <time>{{ post.date | date_to_string }}</time>
-        </div>
-        <div class="list-post-title">
-          {{ post.title }}
-        </div>
-        {% if post.description %}
-        <div class="list-post-desc">
-          {{ post.description }}
-        </div>
-        {% endif %}
-      </a>
+        <a href="{{ post.url | prepend: site.baseurl }}">
+          <div class="list-post-date">
+            <time>{{ post.date | date_to_string }}</time>
+          </div>
+          <div class="list-post-title">
+            {{ post.title }}
+          </div>
+          {% if post.description %}
+          <div class="list-post-desc">
+            {{ post.description }}
+          </div>
+          {% endif %}
+        </a>
+      </div>
     {% endif %}  
-  </div>
 {% endfor %}
   <!-- Pagination links -->
   <div class="list-pagination">
