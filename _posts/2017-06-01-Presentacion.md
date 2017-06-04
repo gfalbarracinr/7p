@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Presentacion 1
-description: "Ejemplo de presentacion"
+title: Presentacion Del Proyecto
+description: "Descripción del problema y planteamiento de la solución"
 tags:
   - presentacion
 comments: false
