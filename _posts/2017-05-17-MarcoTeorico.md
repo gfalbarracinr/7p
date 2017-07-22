@@ -22,14 +22,14 @@ A continuación, se presenta un cuadro donde se muestra las diferentes funciones
 <a href="https://gfalbarracinr.github.io/7p/cuadros-unal.htm" target="_blank">Enlace Cuadro de Consejos</a>
 
 
-Los anteriores se regulan mediante el Estatuto General de la Universidad Nacional de Colombia, acá presentamos dos de sus artículos sobre Quorum y mayorías y difusión de las normas. También se presentá el artículo del Estatuto estudiantil sobre la participación estudiantil
+Los consejos se regulan mediante el Estatuto General de la Universidad Nacional de Colombia, acá presentamos dos de sus artículos sobre Quorum y mayorías y difusión de las normas. También se presentá el artículo del Estatuto estudiantil sobre la participación estudiantil
 
 
-ARTÍCULO 72. Quórum y mayorías. En los cuerpos colegiados definidos en este Estatuto y los que se creen y definan en otros estatutos y normas de la Universidad, para deliberar se requerirá la presencia de más de la mitad de los miembros con derecho a voto. Las decisiones se tomarán con el voto favorable de la mayoría de los miembros presentes. Para la designación de Rector o de Decanos de Facultad por parte del Consejo Superior Universitario, se requerirá el voto favorable de la mitad más uno de los miembros con derecho a voto que lo conforman. 
+**ARTÍCULO 72**. Quórum y mayorías. En los cuerpos colegiados definidos en este Estatuto y los que se creen y definan en otros estatutos y normas de la Universidad, para deliberar se requerirá la presencia de más de la mitad de los miembros con derecho a voto. Las decisiones se tomarán con el voto favorable de la mayoría de los miembros presentes. Para la designación de Rector o de Decanos de Facultad por parte del Consejo Superior Universitario, se requerirá el voto favorable de la mitad más uno de los miembros con derecho a voto que lo conforman. 
 
-ARTÍCULO 73. Difusión de normas. La Secretaria General de la Universidad difundirá por medios electrónicos las normas y actos administrativos de carácter general que adopten el Consejo Superior Universitario, el Consejo Académico y el Rector. La difusión de las normas expedidas en los niveles de Sede y Facultad será responsabilidad de las Secretarías de Sede y Facultad respectivamente.
+**ARTÍCULO 73**. Difusión de normas. La Secretaria General de la Universidad difundirá por medios electrónicos las normas y actos administrativos de carácter general que adopten el Consejo Superior Universitario, el Consejo Académico y el Rector. La difusión de las normas expedidas en los niveles de Sede y Facultad será responsabilidad de las Secretarías de Sede y Facultad respectivamente.
 
-Estatuto estudiantil
+**Estatuto estudiantil**
 Derechos estudiantiles:
 10. A participar en la elaboración de políticas institucionales y en los procesos de construcción y evaluación académica y docente de la universidad.
 Este derecho es un mecanismo de participación directa, donde la comunidad tiene participación en la toma de decisiones políticas.
@@ -37,7 +37,7 @@ Este derecho es un mecanismo de participación directa, donde la comunidad tiene
 La Universidad Nacional de Colombia en su campus de la sede Bogotá, alberga estudiantes de diferentes facultades de los cuales, 24667 son estudiantes de pregrado y 6235 son estudiantes de pregrado, esto conlleva a generar un espacio óptimo para implementación de modelo de Crowdsourcing.
 
 
-Crowdsourcing:
+**Crowdsourcing:**
 "Modelo estratégico para atraer una multitud interesada y motivada de individuos, capaces de proporcionar soluciones superiores en calidad y cantidad a aquellas que podrían proporcionar formas tradicionales" (Daren Brabham) 
 
 
