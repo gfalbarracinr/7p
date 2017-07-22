@@ -30,6 +30,8 @@ Los consejos se regulan mediante el Estatuto General de la Universidad Nacional 
 **ARTÍCULO 73**. Difusión de normas. La Secretaria General de la Universidad difundirá por medios electrónicos las normas y actos administrativos de carácter general que adopten el Consejo Superior Universitario, el Consejo Académico y el Rector. La difusión de las normas expedidas en los niveles de Sede y Facultad será responsabilidad de las Secretarías de Sede y Facultad respectivamente.
 
 **Estatuto estudiantil**
+
+
 Derechos estudiantiles:
 10. A participar en la elaboración de políticas institucionales y en los procesos de construcción y evaluación académica y docente de la universidad.
 Este derecho es un mecanismo de participación directa, donde la comunidad tiene participación en la toma de decisiones políticas.
