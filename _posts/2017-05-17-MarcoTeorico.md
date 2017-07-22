@@ -19,7 +19,7 @@ Los consejos universitarios (Consejo Superior, Consejo de Sede y Consejo De Facu
 A continuación, se presenta un cuadro donde se muestra las diferentes funciones de cada consejo, así como sus integrantes y alcances. 
 
 
-Enlace Cuadro de Consejos
+<a href="cuadros-unal.htm" target="_blank">Enlace Cuadro de Consejos</a>
 
 
 Los anteriores se regulan mediante el Estatuto General de la Universidad Nacional de Colombia, acá presentamos dos de sus artículos sobre Quorum y mayorías y difusión de las normas. También se presentá el artículo del Estatuto estudiantil sobre la participación estudiantil
